@@ -1,6 +1,10 @@
 # WinIoTCoreListener
 A support library for discovering Windows IoT Core devices on a network, just like the WinIoTCoreWatcher application.
 
+
+You can also get it as a NuGet package: "WinIoTCoreListener".
+
+
 Example (the Program.cs file in a standard Console application):
 
 ```
