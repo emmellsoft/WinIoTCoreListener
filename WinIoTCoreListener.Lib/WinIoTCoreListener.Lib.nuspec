@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>WinIoTCoreListener</id>
+        <version>0.1.0.0</version>
+        <title>WinIoTCoreListener</title>
+        <authors>Mattias Larsson</authors>
+        <owners>Mattias Larsson</owners>
+		<iconUrl></iconUrl>		
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl></projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>A support library for discovering Windows IoT Core devices on a network, just like the WinIoTCoreWatcher application.</description>
+        <summary>Discover Windows IoT Core devices on a network.</summary>
+        <copyright>Copyright 2015</copyright>
+        <tags>RaspberryPi RaspberryPi2 IoT WinIoTCoreWatcher</tags>
+    </metadata>
+</package>
