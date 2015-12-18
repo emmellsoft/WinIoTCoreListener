@@ -6,9 +6,9 @@
         <title>WinIoTCoreListener</title>
         <authors>Mattias Larsson</authors>
         <owners>Mattias Larsson</owners>
-		<iconUrl></iconUrl>		
+		<iconUrl>https://raw.githubusercontent.com/emmellsoft/WinIotCoreListener/master/NuGetPackage/PackageIcon.png</iconUrl>		
         <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-        <projectUrl></projectUrl>
+        <projectUrl>https://github.com/emmellsoft/WinIoTCoreListener</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>A support library for discovering Windows IoT Core devices on a network, just like the WinIoTCoreWatcher application.</description>
         <summary>Discover Windows IoT Core devices on a network.</summary>
